@@ -1,0 +1,31 @@
+{
+  "name": "vue-md-gen",
+  "version": "0.0.2",
+  "description": "vue to Markdown document generator",
+  "main": "src/index.js",
+  "bin": {
+    "kfmd": "./bin/index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangziweng7890/vue-md-gen"
+  },
+  "dependencies": {
+    "commander": "^9.4.0",
+    "glob": "^8.0.3",
+    "json2md": "^1.12.0",
+    "vue-docgen-api": "^4.47.0"
+  },
+  "keywords": [
+    "md",
+    "vue",
+    "markdown"
+  ],
+  "author": "wangziweng7890",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangziweng7890/vue-md-gen/issues"
+  },
+  "homepage": "https://github.com/wangziweng7890/vue-md-gen#readme"
+}
